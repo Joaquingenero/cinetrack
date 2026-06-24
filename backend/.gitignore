@@ -1,10 +1,6 @@
 # Dependencias de Node
 node_modules/
 
-# Base de datos local (SQLite)
-*.db
-*.sqlite
-*.sqlite3
 
 # Variables de entorno y configuración secreta
 .env
